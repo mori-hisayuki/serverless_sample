@@ -18,5 +18,9 @@
   "homepage": "https://github.com/mori-hisayuki/serverless_sample#readme",
   "dependencies": {
     "serverless": "^1.30.3"
+  },
+  "devDependencies": {
+    "serverless-dynamodb-local": "^0.2.33",
+    "serverless-offline-python": "^3.21.2"
   }
 }
